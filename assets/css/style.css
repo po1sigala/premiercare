@@ -1,0 +1,14 @@
+.bg
+{
+    background-color: lightblue;
+}
+#valley
+{
+    height: 50px;
+    width: 150px
+}
+.btn
+{
+    background: transparent;
+    border-color: lightblue;
+}
